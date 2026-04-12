@@ -12,11 +12,15 @@
 
 <div align="center">
 
-## 📊 **3D Contribution Graph**
+## 📊 **Server Activity Matrix** (3D View)
 
-![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4yku&theme=react-dark&bg_color=0d1117&color=00f6ff&line=ff00ff&point=39ff14&area=true&hide_border=false&border_color=00f6ff)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4yku/m4yku/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m4yku/m4yku/main/profile-3d-contrib/profile-green.svg">
+  <img alt="3D Server Activity Graph" src="https://raw.githubusercontent.com/m4yku/m4yku/main/profile-3d-contrib/profile-night-green.svg">
+</picture>
 
-[![](https://raw.githubusercontent.com/m4yku/m4yku/output/github-contribution-grid-snake-dark.svg)](https://github.com/m4yku)
+<br>
 
 </div>
 
@@ -24,6 +28,11 @@
 
 <div align="center">
 
+## 📈 **Cyberpunk Stats & Profile Activity**
+
+![Cyberpunk Stats](https://github-readme-stats.vercel.app/api?username=m4yku&show_icons=true&bg_color=0d1117&text_color=00FF41&icon_color=008F11&title_color=00FF41&border_color=003B00)
+
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=m4yku&color=00f6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
