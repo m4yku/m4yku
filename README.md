@@ -21,9 +21,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=m4yku&color=e21d1d&style=for-the-badge&label=DRAGON+VIEWS)
-
-</div>
